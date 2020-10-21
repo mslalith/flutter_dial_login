@@ -6,6 +6,8 @@ Interface by [Nikita](https://dribbble.com/nktshshkn).<br>
 This is created as a Flutter Web project, so you can play around with the design and help me find bugs.<br>
 [https://mslalith.github.io/flutter_dial_login/](https://mslalith.github.io/flutter_dial_login/ "Flutter Dial Login")
 
+Default PIN is 1231.
+
 ![Dial Login](https://github.com/mslalith/flutter_dial_login/blob/master/example/login.gif)
 
 ## Packages:
